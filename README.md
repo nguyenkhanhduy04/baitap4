@@ -72,11 +72,25 @@ a. Sử dụng lênh 'nano docker-compose.yml' để edit file docker-compose.ym
     + Add (nối tiếp vào sau node Code in JavaScript) node: WordPress => Create a Post
   <img width="1854" height="826" alt="image" src="https://github.com/user-attachments/assets/175207f6-ac35-4718-be20-143b9c79727f" />
       <img width="1824" height="954" alt="image" src="https://github.com/user-attachments/assets/9a245c4b-7b2f-447d-9535-36dd54141c52" />
-      
-  
-        
-      
+      <img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/09be7668-1df9-4461-a39a-08c0756a1b0a" />
+<img width="1342" height="728" alt="image" src="https://github.com/user-attachments/assets/483c1df3-9a23-4006-a971-2536185f8a84" />
+<img width="1858" height="851" alt="image" src="https://github.com/user-attachments/assets/7f379871-16bd-4d03-955d-d43f8dd854d6" />
 
+  + Publish workflow:
+    <img width="1634" height="864" alt="image" src="https://github.com/user-attachments/assets/5fea50ce-2340-4be2-80fc-9cf77268975f" />
+
+- Test chat với bot và đăng bài tự động:
+  + Wordpress ban đầu:
+    <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/7db79ff3-12ad-4e06-a5c9-805c743bd334" />
+  + Chat với bot tele:
+    <img width="944" height="2046" alt="image" src="https://github.com/user-attachments/assets/18a01ddf-3ce7-474a-92e9-222f387af88a" />
+
+        
+  + Refresh lại trang WordPress:
+    <img width="1829" height="931" alt="image" src="https://github.com/user-attachments/assets/98d201c4-4479-455e-a966-68dbe7914e28" />
+
+# 5. Nhận xét kết quả đạt được:
+Việc sử dụng docker trên ubuntu để cấu hình các dịch vụ, cloudflare để trỏ vào subdomain của cá nhân, cũng như sử dụng n8n giúp xử lí và liên kết dữ liệu. thông qua n8n, chatbot Tele có thể nhận được lệnh --> gửi lệnh đó tới Gemini --> Js xử lí dữ liêu --> đăng bài tự động lên wordpress đã được liên kết tài khoản
 
 
 
