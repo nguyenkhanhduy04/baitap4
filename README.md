@@ -67,13 +67,13 @@ a. Sử dụng lênh 'nano docker-compose.yml' để edit file docker-compose.ym
         <img width="1854" height="846" alt="image" src="https://github.com/user-attachments/assets/85342a2e-6568-4559-a53d-bed540aa163f" />
 
     + Nối tiếp là node Code in JavaScript:
-    <img width="1850" height="844" alt="image" src="https://github.com/user-attachments/assets/37143568-a5a5-4459-bc84-9cf2c0f30e74" />
+  <img width="1850" height="844" alt="image" src="https://github.com/user-attachments/assets/37143568-a5a5-4459-bc84-9cf2c0f30e74" />
 
     + Add (nối tiếp vào sau node Code in JavaScript) node: WordPress => Create a Post
-      <img width="1854" height="826" alt="image" src="https://github.com/user-attachments/assets/175207f6-ac35-4718-be20-143b9c79727f" />
+  <img width="1854" height="826" alt="image" src="https://github.com/user-attachments/assets/175207f6-ac35-4718-be20-143b9c79727f" />
       <img width="1824" height="954" alt="image" src="https://github.com/user-attachments/assets/9a245c4b-7b2f-447d-9535-36dd54141c52" />
-
-
+      
+  
         
       
 
